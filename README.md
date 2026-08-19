@@ -8,11 +8,7 @@
 
 <br><br>
 
-<h3><code>nikan@nabiger ~ $ whoami --verbose</code></h3>
 
-<img src="./info-card.svg" width="860" alt="Now, previous work, stack, highlights, learning and contact information" />
-
-<br>
 
 <h3><code>nikan@nabiger ~ $ cat contact.txt</code></h3>
 
